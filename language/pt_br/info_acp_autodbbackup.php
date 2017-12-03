@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_AUTO_DB_BACKUP'			=> 'Auto Database Backup',
-	'ACP_AUTO_DB_BACKUP_SETTINGS'	=> 'Configurações do Auto backup ',
+	'ACP_AUTO_DB_BACKUP_SETTINGS'	=> 'Configurações do Auto backup',
 
 	'LOG_AUTO_DB_BACKUP'			=> '<strong>backup automatico do banco de dados completo</strong>',
 	'LOG_AUTO_DB_BACKUP_SETTINGS'	=> '<strong>Configurações do Auto Database Backup alteradas</strong>',
