@@ -4,7 +4,7 @@
 * @package Auto db Backup (3.2)
 * @copyright (c) 2016 david63
 * @license GNU General Public License, version 2 (GPL-2.0)
-*
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 2.1.0-rc2] (https://github.com/phpBBTraducoes)
 */
 
 /**
